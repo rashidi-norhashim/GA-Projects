@@ -49,7 +49,7 @@ Dataset used is in path: '../data/sat_act_overall.csv'
 
 ## Summary of Data Analysis
 
-![mean_par_both.png](attachment:/data/mean_par_both.png)
+![mean_par_both](https://user-images.githubusercontent.com/99335911/156630461-157869a6-0837-4efe-89f6-bb337a8e156d.png)
 
 Mean participation rate for SATs has been increasing from 2017 - 2019 whereas for ACT has been decreasing over the same time frame.
 CollegeBoard Inc. has been successful in their lobbying and marketing efforts over the years.
@@ -85,13 +85,13 @@ The states identified in the table on the above have had low participation rates
 
 However, it may be hard to lobby at these states who may have already chosen ACT as their choice for standardized test, as seen by the high participation rate for ACTs in 2019 compared to SATs for the states from the table above.
 
-![sat_vs_act_19_states.png](attachment:/data/sat_vs_act_19_states.png)
+![sat_vs_act_19_states](https://user-images.githubusercontent.com/99335911/156630705-dbcb676a-fcd2-46ed-9cf2-deac56d0068d.png)
 
 Thus, besides waiting for current ACT contracts to expire, CollegeBoard can focus on states not exclusively contracted to ACTs instead.
 
-__Focus on states with Overall healthy test participation rates__
+__Focus on States with Overall Healthy Test Participation Rates__
 
-![sat_act_50.png](attachment:/data/sat_act_50.png)
+![sat_act_50](https://user-images.githubusercontent.com/99335911/156630542-77abdd5e-5fab-481c-8e66-59531163c48a.png)
 
 The graph above shows the participation rates of SATs and ACTs for 4 US states with healthy participation rates (close or more than 50% participation for both). CollegeBoard can look to make it enticing for students in those states to elect to take SATs instead of or even on top of ACTs.
 
@@ -99,7 +99,7 @@ Also, for the near term, recommendation for CollegeBoard, inc. is to focus their
 
 __Leveraging on Successes__
 
-![SAT_par_increase.png](attachment:/data/SAT_par_increase.png)
+![SAT_par_increase](https://user-images.githubusercontent.com/99335911/156630641-db9cc9bf-19f3-4822-a6e3-fe95c6086ac9.png)
 
 Positive actions that contributed to the increase in participation rates of these states were:
 
