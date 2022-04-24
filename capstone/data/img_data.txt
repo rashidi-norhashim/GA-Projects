@@ -1,0 +1,1 @@
+../data/split/val/1/pass1.jpg 1
