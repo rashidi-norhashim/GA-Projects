@@ -40,8 +40,8 @@ Sensitivity is important as we want to lower false negatives. False negatives le
 
 Below is a summary of our production model confusion matrix and ROC AUC curve.
 
-![ROC_curve](ROC_curve.png)
-![confusion](confusion.png)
+![ROC_curve](https://user-images.githubusercontent.com/99335911/168135734-d8cd9385-5a15-4d6e-ac89-bb4491905cc2.png)
+![confusion](https://user-images.githubusercontent.com/99335911/168135675-3ea57e71-dc52-442d-a749-8f3fbcde106f.png)
 
 
 ## Cost benefit analysis
