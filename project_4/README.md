@@ -1,5 +1,6 @@
 <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
-# Project 4: Predict West Nile Virus Presence in Mosquitos across the City of Chicago<br>
+
+# Project 4: Predict West Nile Virus Presence in Mosquitos across the City of Chicago
 
 ## Problem Statement
 
