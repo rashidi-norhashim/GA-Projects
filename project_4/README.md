@@ -1,3 +1,6 @@
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+# Project 4: Predict West Nile Virus Presence in Mosquitos across the City of Chicago<br>
+
 ## Problem Statement
 
 West Nile virus (WNV) is the leading cause of mosquito-borne disease in the continental United States. There are currently no vaccines to prevent or medications to treat WNV in people. Fortunately, most people infected with WNV do not feel sick. 
